@@ -1,0 +1,10 @@
+DOSBuilder will be devided into 2 or more parts. The first part will be a set of scripts designed to setup the build server, eventually with a choice of using only one server or deviding the build onto more servers.
+
+Then there will be the part that will setup a git or svn repository for keeping new software.
+
+Other parts maybe added as needed, such as (re)branding methods.
+
+We will create a snippets area, using that for adding usefull code snippets that may get integrated yet often needed.
+
+
+---hyperclock
